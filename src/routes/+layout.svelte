@@ -6,7 +6,6 @@
 	import '@svelteness/kit-docs/client/styles/vars.css';
 
 	import { page } from '$app/stores';
-	import PrismarineLogo from '$img/prismarine_100px.png';
 
 	import { Button, KitDocs, KitDocsLayout, createSidebarContext } from '@svelteness/kit-docs';
 
