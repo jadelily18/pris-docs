@@ -41,6 +41,8 @@ export. It uses the same format as [.gitignore](https://git-scm.com/docs/gitigno
 
 This is the configuration file for your project. It includes the following:
 
+_**Note:** Only Minecraft's release versions are supported!_
+
 -   `name` - Project name. This will be used to name the file when exporting.
 -   `description` - Description of the project. This will be used in the `pack.mcmeta`
     file, so you can add formatting as well.
